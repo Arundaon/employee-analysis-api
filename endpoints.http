@@ -1,0 +1,23 @@
+### GET document count
+GET http://localhost:8080/api/count
+
+### GET average salary
+GET http://localhost:8080/api/avg-salary
+
+### GET min and max salary
+GET http://localhost:8080/api/minmax-salary
+
+### GET age distribution (5 years interval)
+GET http://localhost:8080/api/age-distribution
+
+### GET marital status distribution
+GET http://localhost:8080/api/marital-status-distribution
+
+### GET date of joining distribution
+GET http://localhost:8080/api/date-of-joining-distribution
+
+### GET top 10 interests distribution
+GET http://localhost:8080/api/top-interests-distribution
+
+### GET designation distribution
+GET http://localhost:8080/api/designation-distribution
